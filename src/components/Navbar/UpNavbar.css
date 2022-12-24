@@ -1,0 +1,15 @@
+#image {
+    height: 60px;
+}
+.Navbar {
+    background-color: #2e2e2e;
+    display: flex;
+    justify-content: space-between;
+}
+.pages {
+    height: 80px;
+    transition: border-bottom 0.1s ;
+}
+.pages:hover {
+    border-bottom: blue solid 3px;
+}

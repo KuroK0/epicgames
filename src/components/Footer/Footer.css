@@ -1,0 +1,22 @@
+.img {
+    width: 35px;
+    height: 30px;
+    border-radius: 10px;
+}
+.Arrow{
+    transition: color  1s;
+}
+.Arrow:hover{
+    color:rgb(23, 6, 175);
+    /* border-color: rgb(23, 6, 175); */
+}
+.buttons {
+    transition: color 0.2s;
+}
+.buttons:hover {
+ color: rgb(23, 6, 175);
+}
+.img1 {
+    width: 40px;
+    margin-left: 20px;
+}
